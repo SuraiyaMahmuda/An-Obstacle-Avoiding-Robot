@@ -35,7 +35,11 @@ The robot continuously measures the distance to the nearest object using the **H
 
 ## 🏗 Circuit Diagram
 
+![P](Circuit Diagram.png)
 
+## 🏗 Experimental Result
+
+![P](Experimental Result.png)
 
 ---
 
