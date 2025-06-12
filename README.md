@@ -35,10 +35,9 @@ The robot continuously measures the distance to the nearest object using the **H
 
 ## 🏗 Circuit Diagram
 
-> *(You can insert your circuit diagram image here)*
 
-```markdown
-![Circuit Diagram](images/circuit_diagram.png)
+
+---
 
 ## 🚀 Installation & Setup
 
