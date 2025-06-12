@@ -89,4 +89,3 @@ The robot continuously measures the distance to the nearest object using the **H
 - **Reaction Time**: < 0.5 seconds  
 - **Navigation Efficiency**: High in clutter-free and semi-structured environments  
 
----
